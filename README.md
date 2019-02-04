@@ -6,4 +6,3 @@
 
 Building a CustomView -TicTacToe
 
-https://cdn-images-1.medium.com/max/1000/1*6acca0Jo36qlIkAu2EnI4g.jpeg
